@@ -1,2 +1,3 @@
-# platzi-store
-Curso de Pruebas unitarias con Jest
+# Platzi Store
+
+Proyecto del curso de Pruebas unitarias con Jest
